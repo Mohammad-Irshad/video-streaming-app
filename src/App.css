@@ -1,0 +1,9 @@
+.video-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.card {
+  max-width: 345px;
+}
